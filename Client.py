@@ -1,5 +1,5 @@
 """
-Name: Krishal Arunkumar Lad
+Name: KAL
 
 Python version: 2.7
 Tested on PyCharm and Command Prompt
