@@ -154,7 +154,7 @@ class Server:
 
 if __name__ == '__main__':
     print "-" * 80
-    print "\tWelcome to FTP Server by Krishal Lad"
+    print "\tWelcome to FTP Server"
     print "\tlocalhost for same pc demonstration"
     print "\tPrivate IP address available by the Router"
     print "\tPublic IP Address available by the ISP/Organization"
